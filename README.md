@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Laravel](https://laravel.com/), [Spring](https://spring.io/)
+- more https://github.com/rochelle-m
 <!--
 **git-roch/git-roch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
