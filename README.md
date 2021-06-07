@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Svelte](https://svelte.dev/) [Vue](https://vuejs.org/), [Laravel](https://laravel.com/), [Spring](https://spring.io/)
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Svelte](https://svelte.dev/), [Vue](https://vuejs.org/), [Laravel](https://laravel.com/), [Spring](https://spring.io/)
 - More https://github.com/rochelle-m
 <!--
 **git-roch/git-roch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
